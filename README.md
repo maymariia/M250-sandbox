@@ -1,8 +1,5 @@
 
 # M250 sandbox
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of M250 sandbox is to ...
+This is a sandbox for the summer 2026 edition of MATH 250.
 
